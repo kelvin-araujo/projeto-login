@@ -5,3 +5,9 @@
   Verde: #49a09d
   Lilás:#5f2c82
 */
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
